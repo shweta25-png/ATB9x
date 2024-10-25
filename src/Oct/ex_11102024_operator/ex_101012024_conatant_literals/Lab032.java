@@ -1,8 +1,4 @@
-package Oct.ex_101012024_conatant_literals;
-
-import org.w3c.dom.ls.LSOutput;
-
-import java.sql.SQLOutput;
+package Oct.ex_11102024_operator.ex_101012024_conatant_literals;
 
 public class Lab032 {
     //char

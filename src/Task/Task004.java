@@ -15,6 +15,6 @@ public class Task004 {
         float b= scanner.nextFloat();
 
         String result =  (a>b)? "a":"b";
-        System.out.println("in between a and b  "  +  (result)  +  "  is largest number");
+        System.out.println("in between a and b ( "  +  (result)  +  "  ) is largest number");
     }
 }

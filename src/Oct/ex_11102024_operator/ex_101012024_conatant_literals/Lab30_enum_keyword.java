@@ -1,4 +1,4 @@
-package Oct.ex_101012024_conatant_literals;
+package Oct.ex_11102024_operator.ex_101012024_conatant_literals;
 
 public class Lab30_enum_keyword {
     public static void main(String[] args) {
